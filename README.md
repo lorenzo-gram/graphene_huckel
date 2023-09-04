@@ -1,4 +1,4 @@
-HUCKEL PROJECT ON GRAPHENE CARRIED OUT DURING TCCM MASTER
+#HUCKEL PROJECT ON GRAPHENE CARRIED OUT DURING TCCM MASTER
 
 The interactions among the carbon pz orbitals of a piece of graphene is calculated at Hückel (tight-binding) level. The code generates energy diagram, structure file, and molecular orbital coefficients. It includes Jmol visualization.
 
